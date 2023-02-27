@@ -1,1 +1,6 @@
-This script check URL status of given URL list. URL listed in "url_list" file.
+# URL_Monitoring
+
+- Welcome to the URL_Monitoring repository! This repository contains a below files:-
+  - url_list
+  - url_res.JPG
+  - usr_response_html.sh
